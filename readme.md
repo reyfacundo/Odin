@@ -7,7 +7,7 @@
 
  ***<h1 align="center">Proyecto FrontEnd</h1>
  
- ![Deployment)](https://lucianaurristi.github.io/Codo-a-Codo-2024/)
+ [Deployment](https://lucianaurristi.github.io/Codo-a-Codo-2024/)
 
 
 
